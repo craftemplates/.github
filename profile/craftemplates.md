@@ -1,0 +1,1 @@
+![craftemplates](cover.png)
